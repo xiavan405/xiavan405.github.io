@@ -3,7 +3,7 @@ title: About Sweet's Treats
 feature_text: |
   ## Sweet Street
   Notes and highlights on interesting indie games
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://i.imgur.com/zEy0mU6.png"
 excerpt: "Sweet Street is a collection of thoughts and highlights from the genius mind of SweetJP, typically about extremely outdated indie game releases. To this end, Sweet Street contains a litany of information about unique and varied niche releases across a wide variety of genres - Sweet's Treats. Enjoy your stay."
 ---
 
